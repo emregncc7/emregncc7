@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**emregncc7/emregncc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Emre Genç
 
-Here are some ideas to get you started:
+Software developer building independent products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- **[Mentoris](https://mentoris.app)** — Software for personal trainers and coaches.
+- **Orca Quant** — Data analysis and research systems.
+
+### Interests
+
+Backend engineering, automation, and software architecture.
