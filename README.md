@@ -1,5 +1,5 @@
 
-# Emre Genç
+# Emre Genc
 
 Software developer building independent products.
 
